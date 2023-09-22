@@ -1,6 +1,6 @@
 # Create an application to predict Students Adaptability Level in Online Education with Machine Learning
 
-## Try the deployed App in : https://studentadaptabilitypredict.pythonanywhere.com/
+## Try the deployed App in : [https://studentadaptabilitypredict.pythonanywhere.com/](https://github.com/DickyWahyudi22/Prediction-Student-Adaptability-Level-Online-Education-Machine-Learning-Dicky-Wahyudi.git)
 
 
 ![FinalDemo](https://github.com/omidiyanto/program_omi/blob/main/asset-gif/DEMO.gif?raw=true)
