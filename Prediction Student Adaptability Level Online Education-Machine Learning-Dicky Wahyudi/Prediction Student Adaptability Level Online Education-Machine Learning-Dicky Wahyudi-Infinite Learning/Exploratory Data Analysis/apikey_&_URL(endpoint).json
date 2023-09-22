@@ -1,0 +1,7 @@
+{
+	"name": "Prediksi Kemampuan Beradaptasi Pelajar dalam pembelajaran online",
+	"description": "",
+	"createdAt": "2023-09-19T18:44+0000",
+	"apikey": "PCsDbo1D8R7Q6-0uCES-fP_l3VgS6BzUrYE4qHzdZ4kz"
+	"url_endpoint": "https://us-south.ml.cloud.ibm.com/ml/v4/deployments/d10619d6-2048-4846-862a-3b9ecf0c3085/predictions?version=2021-05-01"
+}
